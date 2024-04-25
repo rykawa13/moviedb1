@@ -3,7 +3,7 @@
 	src: local('philosopher'),
 		url(Philosopher-Bold.ttf); 
 }
-@media screen and (width>1600px) {
+@media screen and (width>1200px) {
     body{
         width: 1920px;
         height: 4570px;
